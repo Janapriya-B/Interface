@@ -10,6 +10,11 @@ interface First {
 
 abstract class FL implements First{
 	
+	public void input()
+	{
+		
+	}
+	
 	
 }
 	
